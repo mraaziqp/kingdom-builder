@@ -1,0 +1,6 @@
+{
+  "name": "KingdomForge: Unity AI Builder & Orchestrator",
+  "description": "Local-first AI Game Engine Controller that builds, manages, and packages a 2D Realistic-yet-Arcade Town & Kingdom Builder game in Unity with C# bridge injection, sprite slicing, and live log streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
